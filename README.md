@@ -1,1 +1,1 @@
-## Machine project with Deplyoment
+## Machine learning project with Deplyoment
